@@ -84,9 +84,9 @@ header{
 
       .row .Me img{
           position: relative;
-          width: 510px;
-          height: 508px;
-          padding: 20px;
+          width: 480px;
+          height: 460px;
+          padding: 18px;
           left: 100px;
           object-fit: cover;
       }
@@ -107,11 +107,10 @@ header{
       }
       .container{
           max-width: 100%;
-          margin: 90px;
+          margin: 50px;
       }
       .container .img-col img{
           max-width: 290px;
-          min-height: 30vh;
           border-radius: 10px;
       }
       .about-section .container .text-col{
@@ -144,13 +143,13 @@ header{
       .service{
         float: left;
         width: 33%;
-        padding: 50px;
+        padding: 30px;
         position: relative;
         top: 90px;
       }
       .service h4{
           text-align: center;
-          margin: 5px;
+          margin: 0px;
           font-size: 20px;
           
       }
